@@ -45,3 +45,4 @@ while(num > 0):
         print(stack.top())
     else:
         print("unacceptable op")
+        print("end")
